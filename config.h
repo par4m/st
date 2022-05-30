@@ -1,3 +1,4 @@
+
 /* See LICENSE file for copyright and license details. */
 
 /*
@@ -135,7 +136,7 @@ static const char *colorname[] = {
 	"#83a598",
 	"#d3869b",
 	"#8ec07c",
-	"#ebdbb2",
+	"#d4be98",
 	[255] = 0,
 	/* more colors can be added after 255 to use with DefaultXX */
 	"#83a598", /* 256 -> cursor */
