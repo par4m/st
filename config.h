@@ -66,6 +66,8 @@ static double maxlatency = 33;
  */
 static unsigned int blinktimeout = 0;
 
+static unsigned int xfps = 120;
+static unsigned int actionfps = 30;
 /*
  * interval (in milliseconds) between each successive call to ximspot. This
  * improves terminal performance while not reducing functionality to those
